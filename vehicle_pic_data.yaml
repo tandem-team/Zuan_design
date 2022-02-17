@@ -1,0 +1,6 @@
+train: ./data/TAU_Vehicle/Vehicles_OpenImages/images/train
+val: ./data/TAU_Vehicle/Vehicles_OpenImages/images/val
+test: ./data/TAU_Vehicle/Vehicles_OpenImages/images/test
+
+nc: 5
+names: ['Ambulance', 'Bus', 'Car', 'Motorcycle', 'Truck']
